@@ -62,10 +62,16 @@ pip uninstall --user numpy
 	```
 	pip freeze > requirement.txt
 	```
-- For updating packages I use pip-review. Install it with
-```
-pip install pip-review
-```
+- For updating packages I use pip-review
+	- Install it with
+	```
+	pip install --user pip-review
+	```
+	- To update packages do
+	```
+	pip-review -i
+	```
+
 
 ## Running Jupyter
 - In a terminal run `jupyter notebook`
