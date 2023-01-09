@@ -117,4 +117,4 @@ deactivate
 ```
 
 ### Linux
-If you would like to get into serious programming, consider learning Linux as it is designed with programmers in mind and many of the headaches faced with windows can be avoided. However, teaching Linux is not an objective for this course. Consider [WSL(Windows Subsystem for Linux)]() if you would like to use a Linux shell inside a Windows installation.
+If you would like to get into serious programming, consider learning Linux as it is designed with programmers in mind and many of the headaches faced with windows can be avoided. However, teaching Linux is not an objective for this course. Consider [WSL(Windows Subsystem for Linux)](https://learn.microsoft.com/en-us/windows/wsl/install) if you would like to use a Linux shell inside a Windows installation.
