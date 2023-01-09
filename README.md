@@ -11,6 +11,7 @@ A repository for the course contents of CC 4: Programming in Python
 - End-term = 40%
 ## Lectures
 - [01 - Installation](./Lectures/01-Installation.md)
+- [02 - Basic Operations](./Lectures/02-Basic-operations.ipynb)
 - To be continued
 
 ## References
