@@ -29,6 +29,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 - You can run any commands in the shell if you wish
 - Type `exit()` or `Ctrl-D` to exit
 
+- Note: Alternatively try `py` if on windows
 You have successfully installed python. However, this is not a user friendly way to run things, hence we would be installing an IDE (similar to RStudio in Kishore's course)
 
 ## Installing Jupyter
@@ -38,9 +39,10 @@ Jupyter Notebook is one particular IDE that gives a very interactive environment
 ```
 pip install --user notebook 
 ```
+- If pip is not found try `py -m pip` instead
 - On windows there seems to be issues with the path, run the following command. **WARNING**: Make sure to type it correctly, or it might break your system
 ```
-setx path "%PATH%;%APPDATA\python\python311\Scripts"
+setx path "%PATH%;%APPDATA%\python\python311\Scripts"
 ```
 - Reboot your system
 
