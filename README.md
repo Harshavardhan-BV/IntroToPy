@@ -9,6 +9,7 @@ A repository for the course contents of CC 4: Programming in Python
 - [01 - Installation](./Lectures/01-Installation.md)
 - [02 - Basic Operations](./Lectures/02-Basic-operations.ipynb)
 - [03 - Datatypes](./Lectures/03-Datatypes.ipynb)
+- [04 - Loops & Conditions](./Lectures/04-Loops-Conditions.ipynb)
 - To be continued
 
 ## Grading
