@@ -10,6 +10,7 @@ A repository for the course contents of CC 4: Programming in Python
 - [02 - Basic Operations](./Lectures/02-Basic-operations.ipynb)
 - [03 - Datatypes](./Lectures/03-Datatypes.ipynb)
 - [04 - Loops & Conditions](./Lectures/04-Loops-Conditions.ipynb)
+- [05 - Functions & Scope](./Lectures/05-Functions-Scope.ipynb)
 - To be continued
 
 ## Grading
@@ -20,7 +21,7 @@ A repository for the course contents of CC 4: Programming in Python
 ## References
 - Documentations:
 	- [Python](https://docs.python.org/3/tutorial/index.html)
-	- [Numpy](https://numpy.org/doc/stable/user/absolute_beginners.html) 3. 
+	- [NumPy](https://numpy.org/doc/stable/user/absolute_beginners.html)
 	- [Pandas](https://pandas.pydata.org/docs/getting_started/index.html#getting-started)
 	- [Matplotlib](https://matplotlib.org/stable/tutorials/introductory/quick_start.html)
 - Books (Remember that you cannot learn programming just by reading. You'll have to actually do it to actually learn)
