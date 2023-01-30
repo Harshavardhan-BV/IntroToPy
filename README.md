@@ -11,10 +11,12 @@ A repository for the course contents of CC 4: Programming in Python
 - [03 - Datatypes](./Lectures/03-Datatypes.ipynb)
 - [04 - Loops & Conditions](./Lectures/04-Loops-Conditions.ipynb)
 - [05 - Functions & Scope](./Lectures/05-Functions-Scope.ipynb)
+- [06 - Modules](./Lectures/06-Modules.ipynb)
+- [07 - Classes & Objects](./Lectures/07-Classes.ipynb)
 - To be continued
 
 ## Grading
-- Assignments = 20% x 2 = 40% 
+- Assignments = 40% 
 - Mid-term = 20%
 - End-term = 40%
 

@@ -26,3 +26,7 @@ def sum():
 #     print('I was added at a later time')
 
 # print('Oh No!')
+
+# Added for lecture on Classes
+class AnotherClass:
+    x = 1
