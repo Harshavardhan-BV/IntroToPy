@@ -5,6 +5,7 @@
 - Write a program that takes a list of integers as input and finds the kth largest and kth smallest number in the list.
 - Write a Python function that checks if a given word is a palindrome using recursion.
 - Without using ready-made functions calculate the following for a list: (Hint: you can use `list_name.sort()`)
+ 
         - Mean
         - Standard Deviation
         - Median
