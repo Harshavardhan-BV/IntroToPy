@@ -15,6 +15,7 @@ A repository for the course contents of CC 4: Programming in Python
 - [07 - Classes & Objects](./Lectures/07-Classes.ipynb)
 - [08 - Numpy](./Lectures/08-Numpy.ipynb)
 - [09 - Matplotlib](./Lectures/09-Matplotlib.ipynb)
+- [10 - Pandas](./Lectures/10-Pandas.ipynb)
 - To be continued
 
 ## Grading
