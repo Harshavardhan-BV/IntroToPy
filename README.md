@@ -16,6 +16,15 @@ A repository for the course contents of CC 4: Programming in Python
 - [08 - Numpy](./Lectures/08-Numpy.ipynb)
 - [09 - Matplotlib](./Lectures/09-Matplotlib.ipynb)
 - [10 - Pandas](./Lectures/10-Pandas.ipynb)
+- [11 - Seaborn](./Lectures/11-Seaborn.ipynb)
+- To be continued
+
+## Tutorials
+Please note that the tutorials would be graded and account for the marks for assignment.
+- [Tutorial-01](./Tutorials/Tutorial-01.md)
+- [Tutorial-02](./Tutorials/Tutorial-02.md)
+- [Tutorial-03](./Tutorials/Tutorial-03.md)
+- [Tutorial-04](./Tutorials/Tutorial-04.md)
 - To be continued
 
 ## Grading
@@ -29,7 +38,7 @@ A repository for the course contents of CC 4: Programming in Python
 	- [NumPy](https://numpy.org/doc/stable/user/absolute_beginners.html)
 	- [Pandas](https://pandas.pydata.org/docs/getting_started/index.html#getting-started)
 	- [Matplotlib](https://matplotlib.org/stable/tutorials/introductory/quick_start.html)
-- Books (Remember that you cannot learn programming just by reading. You'll have to actually do it to actually learn)
+- Books (Remember that you cannot learn programming just by reading. You'll have to do it yourself to actually learn)
 	- Learning Python by Mark Lutz (O’Reilly Publication)  
 	- [How to Think Like a Computer Scientist: Learning with Python by Allen B. Downey, Jeffrey Elkner, Chris Meyers](https://openbookproject.net/thinkcs/python/english3e/)
 	- [Non-Programmer's Tutorial for Python3](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3)
