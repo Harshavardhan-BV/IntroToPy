@@ -33,3 +33,4 @@ A repository for the course contents of CC 4: Programming in Python
 	- Learning Python by Mark Lutz (O’Reilly Publication)  
 	- [How to Think Like a Computer Scientist: Learning with Python by Allen B. Downey, Jeffrey Elkner, Chris Meyers](https://openbookproject.net/thinkcs/python/english3e/)
 	- [Non-Programmer's Tutorial for Python3](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3)
+	- [A Byte of Python](https://python.swaroopch.com/)
