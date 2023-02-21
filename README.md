@@ -38,6 +38,7 @@ Please note that the tutorials would be graded and account for the marks for ass
 	- [NumPy](https://numpy.org/doc/stable/user/absolute_beginners.html)
 	- [Pandas](https://pandas.pydata.org/docs/getting_started/index.html#getting-started)
 	- [Matplotlib](https://matplotlib.org/stable/tutorials/introductory/quick_start.html)
+	- [Seaborn](https://seaborn.pydata.org/tutorial.html)
 - Books (Remember that you cannot learn programming just by reading. You'll have to do it yourself to actually learn)
 	- Learning Python by Mark Lutz (O’Reilly Publication)  
 	- [How to Think Like a Computer Scientist: Learning with Python by Allen B. Downey, Jeffrey Elkner, Chris Meyers](https://openbookproject.net/thinkcs/python/english3e/)
