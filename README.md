@@ -18,6 +18,7 @@ A repository for the course contents of CC 4: Programming in Python
 - [10 - Pandas](./Lectures/10-Pandas.ipynb)
 - [11 - Seaborn](./Lectures/11-Seaborn.ipynb)
 - [12 - Scipy](./Lectures/12-Scipy.ipynb)
+- [13 - PCA](./Lectures/13-PCA.ipynb)
 - To be continued
 
 ## Tutorials
