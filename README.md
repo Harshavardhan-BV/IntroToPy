@@ -27,6 +27,7 @@ Please note that the tutorials would be graded and account for the marks for ass
 - [Tutorial-02](./Tutorials/Tutorial-02.md)
 - [Tutorial-03](./Tutorials/Tutorial-03.md)
 - [Tutorial-04](./Tutorials/Tutorial-04.md)
+- [Tutorial-05](./Tutorials/Tutorial-05.md)
 - To be continued
 
 ## Grading
