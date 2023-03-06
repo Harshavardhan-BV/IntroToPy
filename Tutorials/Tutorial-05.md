@@ -5,7 +5,7 @@ Reading and understanding code is just as important as writing code ([Relevant M
 
 Given is the [PlagiarismCheck.py](./PlagiarismCheck.py) file, which is used to calculate the similarity score between python files. Have a look and give a detailed step-by-step explanation of how the python code operates. You may refer to the documentation of the respective modules/functions.
 
-You may write these as comments in the python file itself. Otherwise, write it in a text file or word document.
+You may write these as comments in the python file itself. Otherwise, write it in a text/word/pdf document.
 
 Example outputs are in the [Output](./Output/) folder. If you want to run the code for yourself, ask your friends for their python codes from previous assignments (if you have not already :P) and add ' - name' to the end of the file.
 
